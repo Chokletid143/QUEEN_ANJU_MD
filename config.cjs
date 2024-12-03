@@ -10,7 +10,7 @@ module.exports = {
   "AUTO_STICKER": false,
   "AUTO_REPLY": true,
   "AUTO_REACT": true,
-  "WELCOME": false,
+  "WELCOME": true,
   "ANTI_BAD": false,
   "ANTI_BOT": true,
   "ANTI_LINK": true,
@@ -25,3 +25,4 @@ module.exports = {
   "OWNER_REACT": false,
   "EMOJI": "🏷"
 };
+"GOODBYE":true,
